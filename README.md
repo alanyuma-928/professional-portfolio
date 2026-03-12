@@ -8,18 +8,12 @@
 
 ---
 
+---
+
 ## 📍 Quick Navigation
-- [Coach Alan Pruitt | The Curriculum Architect](#coach-alan-pruitt--the-curriculum-architect)
-  - [Instructional Designer • Generative AI Strategist • Adjunct Faculty](#instructional-designer--generative-ai-strategist--adjunct-faculty)
-  - [📍 Quick Navigation](#-quick-navigation)
-  - [🎫 GOOGLE I/O 2026 | DIGITAL CREDENTIAL](#-google-io-2026--digital-credential)
-  - [🚀 The EdTech Mission: Student-Centric Instructional Design](#-the-edtech-mission-student-centric-instructional-design)
-  - [🛠 Technical Architecture: Infrastructure-as-Code](#-technical-architecture-infrastructure-as-code)
-  - [📂 Project Spotlight: EXW Master Library](#-project-spotlight-exw-master-library)
-  - [📚 Intellectual Property: OER Commons](#-intellectual-property-oer-commons)
-  - [🎓 Course Architecture (SSoT)](#-course-architecture-ssot)
-  - [🏛 Webcognita LLC \& Recognition](#-webcognita-llc--recognition)
-  - [📫 Connect \& Collaborate](#-connect--collaborate)
+[Handshake](#-google-io-2026--digital-credential) | [Mission](#-the-edtech-mission-student-centric-instructional-design) | [Tech Stack](#-technical-architecture-infrastructure-as-code) | [Spotlight](#-project-spotlight-exw-master-library) | [IP/OER](#-intellectual-property-oer-commons) | [Contact](#-connect--collaborate)
+
+---
 
 ---
 
