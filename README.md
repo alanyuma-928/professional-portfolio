@@ -8,12 +8,8 @@
 
 ---
 
----
-
 ## 📍 Quick Navigation
 [Handshake](#-google-io-2026--digital-credential) | [Mission](#-the-edtech-mission-student-centric-instructional-design) | [Tech Stack](#-technical-architecture-infrastructure-as-code) | [Spotlight](#-project-spotlight-exw-master-library) | [IP/OER](#-intellectual-property-oer-commons) | [Contact](#-connect--collaborate)
-
----
 
 ---
 
