@@ -1,5 +1,7 @@
 ![CI Auditor](https://github.com/alanyuma-928/professional-portfolio/actions/workflows/ci.yml/badge.svg)
 
+![Coach Alan - The Curriculum Architect](assets/Coach_Alan_Professional_Portfolio.jpg)
+
 # Coach Alan Pruitt | The Curriculum Architect
 ## Instructional Designer • Generative AI Strategist • Adjunct Faculty
 **M.S. Exercise Science & Human Performance (In Progress) | Google AI Professional Certified**
