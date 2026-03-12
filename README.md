@@ -21,13 +21,15 @@ I specialize in high-level curriculum engineering and institutional agility. As 
 
 ---
 
-### 🛠 The Framework: Infrastructure-as-Code
-All course content is developed using a **VS Code > GitHub > Canvas LMS** workflow to ensure version control, mobile responsiveness, and technical integrity.
+---
+
+### 🛠 Technical Architecture: Infrastructure-as-Code
+I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure version control, mobile-first responsiveness, and technical scalability.
 
 * **Primary Logic:** The Mission Loop (Pattern / Rule / Solve)
 * **Accessibility:** WCAG 2.1 AA Compliance via Universal Design for Learning (UDL)
 * **Semantic Integrity:** Strict `<h2>`–`<h4>` Hierarchy for Screen Reader Compatibility
-* **Prompt Stability:** Triple-Hash (`###`) Delimiter Protocol
+* **Prompt Stability:** Triple-Hash (`###`) Delimiter Protocol for Agentic AI
 
 ---
 
