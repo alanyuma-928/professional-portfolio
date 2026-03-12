@@ -9,12 +9,15 @@ I specialize in high-level curriculum engineering and institutional agility. As 
 
 ### 📚 Intellectual Property & Authorship: OER Commons
 
-> [!NOTE]
-> **Published OER Works by Coach Alan Pruitt**
-> * **[The Problem-Framer's Guide: A "Centaur" Assessment Protocol for Generative AI](https://oercommons.org/courseware/lesson/138815)**
-> * **[AI-Enhanced Nutritional Literacy: From Data to Diet](https://oercommons.org/courseware/lesson/138293)** >   * *Target Courses: Introduction to Nutrition (NUT 101) or Health & Wellness (HWE 100)*
->
-> *Recipent of the 2025 SBA Arizona Veteran Small Business Champion of the Year award.*
+| Status      | Publication Title                    | Framework / Target Course     | Link                                                                |
+| :---------- | :----------------------------------- | :---------------------------- | :------------------------------------------------------------------ |
+| **Active**  | **The Problem-Framer's Guide**       | "Centaur" Assessment Protocol | [View Publication](https://oercommons.org/courseware/lesson/138815) |
+| **Active**  | **AI-Enhanced Nutritional Literacy** | NUT 101 / HWE 100             | [View Publication](https://oercommons.org/courseware/lesson/138293) |
+| **Q3 2026** | *The Hyperbolic Auditor*             | EXW 245 / Clinical Ergometry  | *In Development*                                                    |
+| **Q4 2026** | *Bilingual AI Tool Box (Spanish)*    | Allied Health / HSI Literacy  | *In Development*                                                    |
+
+> [!TIP]
+> All publications are OER-accessible, mobile-first, and recipient of the **2025 SBA Arizona Veteran Small Business Champion** recognition.
 
 ---
 
