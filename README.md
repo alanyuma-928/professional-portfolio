@@ -24,9 +24,10 @@ I specialize in high-level curriculum engineering and institutional agility. As 
 ### 🛠 The Framework: Infrastructure-as-Code
 All course content is developed using a **VS Code > GitHub > Canvas LMS** workflow to ensure version control, mobile responsiveness, and technical integrity.
 
-* **Primary Framework:** The Mission Loop (Pattern / Rule / Solve)
-* **Design Standards:** WCAG 2.1 AA Compliance & Semantic HTML (<h2> Hierarchy)
-* **Delimiter Protocol:** All AI-driven prompts utilize `###` delimiters for structural stability.
+* **Primary Logic:** The Mission Loop (Pattern / Rule / Solve)
+* **Accessibility:** WCAG 2.1 AA Compliance via Universal Design for Learning (UDL)
+* **Semantic Integrity:** Strict `<h2>`–`<h4>` Hierarchy for Screen Reader Compatibility
+* **Prompt Stability:** Triple-Hash (`###`) Delimiter Protocol
 
 ---
 
