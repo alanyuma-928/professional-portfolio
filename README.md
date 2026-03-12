@@ -39,6 +39,9 @@ My Exercise Science (EXW) portfolio is grounded in the **Physical Activity Guide
 * **Scaffolded Workflow:** Part A (Gemini AI Guided Learning) & Part B (Practical Application).
 * **Clinical Integrity:** Strict adherence to PAGA 2018 standards for safety and evidence-based activity.
 
+### 🗺 Professional Pipeline: The EXW Architecture
+[EXW101: Pattern Recognition] ➔ [EXW150: Rule Application] ➔ [EXW245/265: Clinical Solve]
+
 ---
 
 ### 🏛 Webcognita LLC
@@ -61,3 +64,8 @@ My Exercise Science (EXW) portfolio is grounded in the **Physical Activity Guide
 * **Innovation:** Founder of **Webcognita LLC** (1997) & **Yuma Brew & View** (2024) — *Veteran-Owned Enterprises*.
 
 > "We frame the problem before we solve the case." — The Curriculum Architect
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+> [!IMPORTANT]
+> This portfolio and the associated EXW Course Templates are licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License**. This ensures that these OER resources remain free for educational use while protecting the intellectual property of the Curriculum Architect.
