@@ -1,6 +1,6 @@
 ![CI Auditor](https://github.com/alanyuma-928/professional-portfolio/actions/workflows/ci.yml/badge.svg)
 
-![Coach Alan - The Curriculum Architect](assets/Coach_Alan_Professional_Portfolio.png)
+![Coach Alan - The Curriculum Architect](assets/coach-alan-portfolio.png)
 
 # Coach Alan Pruitt | The Curriculum Architect
 ## Instructional Designer • Generative AI Strategist • Adjunct Faculty
@@ -21,6 +21,9 @@
 **{ VETERAN NETWORK (VETNET) MEMBER }** *Scan QR for Engineering Documentation & EXW Library*
 
 ---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
+
+---
 
 > "We frame the problem before we solve the case."
 
@@ -36,6 +39,9 @@ I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barri
 * **Universal Design:** Prioritizing **UDL** and **WCAG 2.1 AA** compliance to meet federal ADA and quality standards.
 
 ---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
+
+---
 
 ## 🛠 Technical Architecture: Infrastructure-as-Code
 * **Development Pipeline:** Version-controlled deployment for mobile-first responsiveness.
@@ -44,6 +50,9 @@ I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barri
 * **Quality Assurance:** Automated **CI/CD pipeline** for real-time link validation.
 
 **The Workflow Architecture:** `[EXW-Master-Library (SSoT)] ➔ [GitHub Pages (OER Preview)] ➔ [Canvas LMS (Production)]`
+
+---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
 
 ---
 
@@ -55,6 +64,9 @@ I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barri
 * **Version Control:** All pedagogical changes tracked via Git for institutional auditing.
 
 ---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
+
+---
 
 ## 📚 Intellectual Property: OER Commons
 | Status      | Publication Title                    | Framework          | Link                                                    |
@@ -64,6 +76,9 @@ I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barri
 | **Q3 2026** | *The Hyperbolic Auditor*             | EXW 245            | *In Dev*                                                |
 
 ---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
+
+---
 
 ## 🎓 Course Architecture (SSoT)
 **Standards:** PAGA 2018 (2nd Ed) & ACSM 12th Ed.
@@ -71,11 +86,17 @@ I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barri
 **Curriculum Pipeline:** `[EXW101: Pattern Recognition] ➔ [EXW150: Rule Application] ➔ [EXW245/265: Clinical Solve]`
 
 ---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
+
+---
 
 ## 🏛 Webcognita LLC & Recognition
 * **Legacy:** Founded in 1997; specializing in Adult Education and Public Safety training standards.
 * **2025 Arizona Veteran Small Business Champion of the Year** – *U.S. SBA*
 * **2023 Champion of Minority Business Development** – *U.S. Dept. of Commerce (MBDA)*
+
+---
+[⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
 
 ---
 
