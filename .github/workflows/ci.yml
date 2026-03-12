@@ -1,0 +1,27 @@
+name: Portfolio CI Auditor
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 1. Checkout Code
+      uses: actions/checkout@v4
+
+    - name: 2. Markdown Lint Check
+      uses: davidanson/markdownlint-cli2-action@v1
+      with:
+        globs: "**/*.md"
+
+    - name: 3. Check for Broken Links
+      uses: lycheeverse/lychee-action@v1.9.0
+      with:
+        args: --verbose --no-progress "**/*.md"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
