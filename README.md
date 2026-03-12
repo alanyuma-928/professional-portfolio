@@ -1,71 +1,81 @@
 ![CI Auditor](https://github.com/alanyuma-928/professional-portfolio/actions/workflows/ci.yml/badge.svg)
+
 # Coach Alan Pruitt | The Curriculum Architect
 ## Instructional Designer • Generative AI Strategist • Adjunct Faculty
 
-### Professional Persona
-I specialize in high-level curriculum engineering and institutional agility. As an **OER Commons published content creator** and author in the "AI in Education" space, I focus on building scalable, accessible learning environments for community college students at **Arizona Western College**. I also serve as a **Generative AI Strategist** at **The University of Arizona — Yuma Campus**.
-
----
-
-### 📚 Intellectual Property & Authorship: OER Commons
-
-| Status      | Publication Title                    | Framework / Target Course     | Link                                                                |
-| :---------- | :----------------------------------- | :---------------------------- | :------------------------------------------------------------------ |
-| **Active**  | **The Problem-Framer's Guide**       | "Centaur" Assessment Protocol | [View Publication](https://oercommons.org/courseware/lesson/138815) |
-| **Active**  | **AI-Enhanced Nutritional Literacy** | NUT 101 / HWE 100             | [View Publication](https://oercommons.org/courseware/lesson/138293) |
-| **Q3 2026** | *The Hyperbolic Auditor*             | EXW 245 / Clinical Ergometry  | *In Development*                                                    |
-| **Q4 2026** | *Bilingual AI Tool Box (Spanish)*    | Allied Health / HSI Literacy  | *In Development*                                                    |
-
-> [!TIP]
+> [!NOTE]
 >
-> All publications are OER-accessible and mobile-first. I also serve as a **Generative AI Strategist** at **The University of Arizona — Yuma Campus** and am an **Adjunct Faculty** member at **Arizona Western College**.
+> ## 🎫 GOOGLE I/O 2026 | DIGITAL CREDENTIAL
+> **ID:** ALANYUMA-928
+> **STATUS:** GOOGLE AI PROFESSIONAL (CERTIFIED)
+> **ROLE:** CURRICULUM ARCHITECT / HIGHER EDUCATION
+>
+> **{ VETERAN NETWORK (VETNET) MEMBER }**
+>
+> *Scan QR for Engineering Documentation & EXW Library*
+
+> "We frame the problem before we solve the case."
 
 ---
 
-### 🛠 Technical Architecture: Infrastructure-as-Code
-I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure version control, mobile-first responsiveness, and technical scalability.
+### 🎓 Professional Identity & Credentials
+| 🏢 Affiliations                                                 | 📜 Certifications & Networks                                            |
+| :------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| **Generative AI Strategist** <br> University of Arizona — Yuma | **Google AI Professional** <br> Generative AI & Agentic Architecture   |
+| **Adjunct Faculty** <br> Arizona Western College               | **Google Veteran Network (VetNet)** <br> USMC Veteran (Staff Sergeant) |
+| **Founder** <br> Webcognita LLC (Est. 1997)                    | **Google I/O Attendee** <br> 2026 & Previous Years                     |
 
-* **Primary Logic:** The Mission Loop (Pattern / Rule / Solve)
-* **Accessibility:** WCAG 2.1 AA Compliance via Universal Design for Learning (UDL)
-* **Semantic Integrity:** Strict `<h2>`–`<h4>` Hierarchy for Screen Reader Compatibility
-* **Prompt Stability:** Triple-Hash (`###`) Delimiter Protocol for Agentic AI
+---
+
+### 🚀 The EdTech Mission: Infrastructure-as-Code
+
+> [!IMPORTANT]
+>
+> **Scaling accessible kinesiology education through version-controlled deployment.**
+> I utilize a **VS Code > GitHub > Canvas LMS** pipeline to ensure zero-cost barriers for students through OER and Google-certified AI strategies.
+
+* **Institutional Agility:** Managing the EXW suite (101, 150, 245, 265) via a Single Source of Truth (**SSoT**).
+* **Equity in Access:** Replacing high-cost textbooks with audited, high-fidelity **OER** materials.
+* **Agentic Pedagogy:** Moving students from passive consumption to **Clinical Auditing** via AI workflows.
+
+---
+
+### 🛠 Technical Stack
+* **Generative AI:** Gemini 1.5 Pro, Veo, Lyria, Nano Banana 2.
+* **Architecture:** GitHub Actions (CI/CD), Markdown, Semantic HTML, VS Code.
+* **Framework:** Mission Loop (Pattern / Rule / Solve) for Clinical Auditing.
+* **Accessibility:** WCAG 2.1 AA Compliance & Semantic Hierarchy.
+
+---
+
+### 📚 Intellectual Property: OER Commons
+| Status      | Publication Title                    | Framework / Target Course     | Link                                                    |
+| :---------- | :----------------------------------- | :---------------------------- | :------------------------------------------------------ |
+| **Active**  | **The Problem-Framer's Guide**       | "Centaur" Assessment Protocol | [View](https://oercommons.org/courseware/lesson/138815) |
+| **Active**  | **AI-Enhanced Nutritional Literacy** | NUT 101 / HWE 100             | [View](https://oercommons.org/courseware/lesson/138293) |
+| **Q3 2026** | *The Hyperbolic Auditor*             | EXW 245 / Clinical Ergometry  | *In Dev*                                                |
+| **Q4 2026** | *Bilingual AI Tool Box (Spanish)*    | Allied Health / HSI Literacy  | *In Dev*                                                |
 
 ---
 
 ### 🎓 Course Architecture (SSoT)
-My Exercise Science (EXW) portfolio is grounded in the **Physical Activity Guidelines for Americans (PAGA 2018, 2nd Ed.)** and the **ACSM 12th Ed.**
+**Standard:** Physical Activity Guidelines for Americans (**PAGA 2018**) & **ACSM 12th Ed.**
 
-#### EXW 101, 150, 245, 265
-* **Scaffolded Workflow:** Part A (Gemini AI Guided Learning) & Part B (Practical Application).
-* **Clinical Integrity:** Strict adherence to PAGA 2018 standards for safety and evidence-based activity.
-
-### 🗺 Professional Pipeline: The EXW Architecture
-[EXW101: Pattern Recognition] ➔ [EXW150: Rule Application] ➔ [EXW245/265: Clinical Solve]
+**Professional Pipeline:**
+`[EXW101: Pattern Recognition] ➔ [EXW150: Rule Application] ➔ [EXW245/265: Clinical Solve]`
 
 ---
 
-### 🏛 Webcognita LLC
-**Founded in 1997**, Webcognita LLC is an ed-tech firm with a deep legacy in:
-* **Adult Education:** Private post-secondary market solutions.
-* **Public Safety:** Law enforcement professional training standards and curriculum development.
-* **Modern AI:** Transitioning legacy standards into agentic AI workflows and OER-accessible content.
+### 🏛 Webcognita LLC & Recognition
+* **Legacy:** Founded in 1997, focusing on Adult Education and Public Safety training standards.
+* **2025 Arizona Veteran Small Business Champion of the Year** – *U.S. SBA*
+* **2023 Champion of Minority Business Development** – *U.S. Dept. of Commerce (MBDA)*
 
 ---
 
-### 🏆 Awards & Recognition
-* **2025 Arizona Veteran Small Business Champion of the Year** – *U.S. Small Business Administration*
-* **2023 Champion of Minority Business Development** – *U.S. Minority Business Development Agency (MBDA), Dept. of Commerce*
-
----
-
-### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
-* **Institutional:** [alan.pruitt@azwestern.edu](mailto:alan.pruitt@azwestern.edu)
-* **Innovation:** Founder of **Webcognita LLC** (1997) & **Yuma Brew & View** (2024) — *Veteran-Owned Enterprises*.
-
-> "We frame the problem before we solve the case." — The Curriculum Architect
+### 📫 Connect & Collaborate
+* **LinkedIn:** [/in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
+* **Email:** [alan.pruitt@azwestern.edu](mailto:alan.pruitt@azwestern.edu)
+* **Enterprises:** Webcognita LLC & Yuma Brew & View (Veteran-Owned)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-> [!IMPORTANT]
-> This portfolio and the associated EXW Course Templates are licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License**. This ensures that these OER resources remain free for educational use while protecting the intellectual property of the Curriculum Architect.
