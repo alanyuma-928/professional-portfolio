@@ -2,6 +2,26 @@
 
 ![Coach Alan - The Curriculum Architect](assets/Coach_Alan_Professional_Portfolio.jpg)
 
+![Coach Alan - The Curriculum Architect](assets/Coach_Alan_Professional_Portfolio.jpg)
+
+## 📍 Quick Navigation
+- [Coach Alan Pruitt | The Curriculum Architect](#coach-alan-pruitt--the-curriculum-architect)
+- [Coach Alan Pruitt | The Curriculum Architect](#coach-alan-pruitt--the-curriculum-architect-1)
+  - [Instructional Designer • Generative AI Strategist • Adjunct Faculty](#instructional-designer--generative-ai-strategist--adjunct-faculty)
+  - [🎫 GOOGLE I/O 2026 | DIGITAL CREDENTIAL](#-google-io-2026--digital-credential)
+    - [🎓 Professional Identity \& Credentials](#-professional-identity--credentials)
+    - [🚀 The EdTech Mission: Student-Centric Instructional Design](#-the-edtech-mission-student-centric-instructional-design)
+    - [🛠 Technical Architecture: Infrastructure-as-Code](#-technical-architecture-infrastructure-as-code)
+    - [📂 Project Spotlight: EXW Master Library](#-project-spotlight-exw-master-library)
+    - [📚 Intellectual Property: OER Commons](#-intellectual-property-oer-commons)
+    - [🎓 Course Architecture (SSoT)](#-course-architecture-ssot)
+    - [🏛 Webcognita LLC \& Recognition](#-webcognita-llc--recognition)
+    - [📫 Connect \& Collaborate](#-connect--collaborate)
+
+---
+
+# Coach Alan Pruitt | The Curriculum Architect
+
 # Coach Alan Pruitt | The Curriculum Architect
 ## Instructional Designer • Generative AI Strategist • Adjunct Faculty
 **M.S. Exercise Science & Human Performance (In Progress) | Google AI Professional Certified**
