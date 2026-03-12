@@ -17,7 +17,7 @@ I specialize in high-level curriculum engineering and institutional agility. As 
 | **Q4 2026** | *Bilingual AI Tool Box (Spanish)*    | Allied Health / HSI Literacy  | *In Development*                                                    |
 
 > [!TIP]
-> All publications are OER-accessible, mobile-first, and recipient of the **2025 SBA Arizona Veteran Small Business Champion** recognition.
+> All publications are OER-accessible and mobile-first. I also serve as a **Generative AI Strategist** at **The University of Arizona — Yuma Campus** and am an **Adjunct Faculty** member at **Arizona Western College**.
 
 ---
 
