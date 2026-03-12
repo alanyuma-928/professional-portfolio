@@ -9,15 +9,12 @@ I specialize in high-level curriculum engineering and institutional agility. As 
 
 ### 📚 Intellectual Property & Authorship: OER Commons
 
-> [!IMPORTANT]
-> **The Problem-Framer's Guide: A "Centaur" Assessment Protocol for Generative AI**
-> [Access on OER Commons](https://oercommons.org/courseware/lesson/138815)
-> *A foundational protocol for AI-human hybrid assessment in higher education.*
-
-> [!TIP]
-> **AI-Enhanced Nutritional Literacy: From Data to Diet**
-> [Access on OER Commons](https://oercommons.org/courseware/lesson/138293)
-> *Optimized for NUT 101 and HWE 100 curriculum integration.*
+> [!NOTE]
+> **Published OER Works by Coach Alan Pruitt**
+> * **[The Problem-Framer's Guide: A "Centaur" Assessment Protocol for Generative AI](https://oercommons.org/courseware/lesson/138815)**
+> * **[AI-Enhanced Nutritional Literacy: From Data to Diet](https://oercommons.org/courseware/lesson/138293)** >   * *Target Courses: Introduction to Nutrition (NUT 101) or Health & Wellness (HWE 100)*
+>
+> *Recipent of the 2025 SBA Arizona Veteran Small Business Champion of the Year award.*
 
 ---
 
