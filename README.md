@@ -32,7 +32,7 @@
 ## 🚀 The EdTech Mission: Student-Centric Instructional Design
 **AWC Mission Alignment: Scaling accessible online, hybrid, and on-campus courses.**
 
-I use an **Antigravity > GitHub > Canvas LMS** pipeline to remove barriers for community college students through OER and Google-certified AI strategies.
+I use an **Antigravity IDE > GitHub > Canvas LMS** pipeline to remove barriers for community college students through OER and Google-certified AI strategies.
 
 * **Curriculum Mapping:** Managing the EXW suite (101, 150, 245, 265) via a **Single Source of Truth (SSoT)** to ensure vertical alignment.
 * **LMS Mastery:** Engineering advanced **Canvas LMS** shells with multimedia integration to enhance faculty support.
