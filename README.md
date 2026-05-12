@@ -16,8 +16,7 @@
 **ID:** ALANYUMA-928  
 **STATUS:** GOOGLE AI PROFESSIONAL (CERTIFIED)  
 **ROLE:** CURRICULUM ARCHITECT / HIGHER EDUCATION  
-
-**{ VETERAN NETWORK (VETNET) MEMBER }** *Scan QR for Engineering Documentation & EXW Library*
+**GOOGLE VETERANS NETWORK MEMBER**
 
 ---
 [⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
@@ -31,11 +30,11 @@
 ## 🚀 The EdTech Mission: Student-Centric Instructional Design
 **AWC Mission Alignment: Scaling accessible online, hybrid, and on-campus courses.**
 
-I deploy an **Antigravity IDE > GitHub > Canvas LMS** pipeline to eliminate barriers for community college students through OER and Google-certified AI strategies.
+I deploy an **Antigravity IDE > GitHub > Markdown > Canvas LMS** pipeline to eliminate barriers for community college students through OER and Google-certified Guided Learning AI strategies.
 
 * **Curriculum Mapping:** Managing the EXW suite (101, 150, 245, 265) via a **Single Source of Truth (SSoT)** to ensure vertical alignment.
 * **LMS Mastery:** Engineering advanced **Canvas LMS** shells with automated multimedia integration to enhance faculty agility.
-* **Universal Design:** Prioritizing **UDL** and **WCAG 2.1 AA** compliance to meet federal ADA and quality standards.
+* **Universal Design:** Prioritizing **UDL** and **WCAG 2.2 AA** compliance to meet federal ADA and quality standards.
 
 ---
 [⬆️ Back to Top](#coach-alan-pruitt--the-curriculum-architect)
@@ -45,7 +44,7 @@ I deploy an **Antigravity IDE > GitHub > Canvas LMS** pipeline to eliminate barr
 ## 🛠 Technical Architecture: Infrastructure-as-Code
 * **Development Pipeline:** Version-controlled deployment using **Markdown** and **Python** for mobile-first responsiveness.
 * **Pedagogical Framework:** **Mission Loop (Pattern / Rule / Solve)** for clinical auditing and problem framing.
-* **AI Integration:** Implementing agentic workflows via **Gemini 3 Flash** and **Nano Banana 2**.
+* **AI Integration:** Implementing agentic workflows via **Gemini 3 Flash** and **Antigravity IDE**.
 * **Quality Assurance:** Automated **CI/CD pipeline** for real-time link validation and accessibility auditing.
 
 **The Workflow Architecture:** `[EXW-Master-Library (SSoT)] ➔ [GitHub Pages (OER Preview)] ➔ [Canvas LMS (Production)]`
